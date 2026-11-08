@@ -1,0 +1,2 @@
+{ "appId": "com.example.driftvalley", "appName": "Drift Valley", "webDir": "www",
+  "android": { "allowMixedContent": false } }
